@@ -19,7 +19,7 @@
 // 
 //////////////////////////////////////////////////////////////////////////////////
 
-//Bu design dosyasý sistemin tasarýmýnýn yapýldýðý sayfadýr
+
 module myFunction(input logic a, b,c,
                     output logic y);
                     
