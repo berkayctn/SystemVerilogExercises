@@ -19,11 +19,12 @@
 // 
 //////////////////////////////////////////////////////////////////////////////////
 
-//Yaratýlan myFunction modülünde yazdýðýmýz þeyin doðru çalýþýp çalýþmadýðýný test ediyoruz
+
 module testBench1();
 
 logic a, b, c, y;
  // instantiate device under test
+ 
  myFunction dut(a, b, c, y);
  // apply inputs one at a time
  
