@@ -1,0 +1,9 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/berkay/vprojects/TwoNFourMultiplexer/TwoNFourMultiplexer.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/berkay/vprojects/TwoNFourMultiplexer/TwoNFourMultiplexer.srcs/sim_1/new/testBenchMux2.sv,1647982173,systemVerilog,,,,testBenchMux2,,uvm,,,,,,
+C:/Users/berkay/vprojects/TwoNFourMultiplexer/TwoNFourMultiplexer.srcs/sim_1/new/testBenchMux4.sv,1647982671,systemVerilog,,,,testBenchMux4,,uvm,,,,,,
+C:/Users/berkay/vprojects/TwoNFourMultiplexer/TwoNFourMultiplexer.srcs/sources_1/new/MUX2.sv,1647981666,systemVerilog,,C:/Users/berkay/vprojects/TwoNFourMultiplexer/TwoNFourMultiplexer.srcs/sim_1/new/testBenchMux2.sv,,MUX2,,uvm,,,,,,
+C:/Users/berkay/vprojects/TwoNFourMultiplexer/TwoNFourMultiplexer.srcs/sources_1/new/MUX4.sv,1647981691,systemVerilog,,C:/Users/berkay/vprojects/TwoNFourMultiplexer/TwoNFourMultiplexer.srcs/sim_1/new/testBenchMux4.sv,,MUX4,,uvm,,,,,,
