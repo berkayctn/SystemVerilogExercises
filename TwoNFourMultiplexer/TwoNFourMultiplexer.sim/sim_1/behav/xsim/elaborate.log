@@ -1,14 +1,16 @@
 Vivado Simulator 2020.2
 Copyright 1986-1999, 2001-2020 Xilinx, Inc. All Rights Reserved.
-Running: C:/Xilinx/Vivado/2020.2/bin/unwrapped/win64.o/xelab.exe -wto 53bf352256b844ccac6aa848956198e1 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L uvm -L unisims_ver -L unimacro_ver -L secureip --snapshot testBenchMux4_behav xil_defaultlib.testBenchMux4 xil_defaultlib.glbl -log elaborate.log 
+Running: C:/Xilinx/Vivado/2020.2/bin/unwrapped/win64.o/xelab.exe -wto 53bf352256b844ccac6aa848956198e1 --incr --debug typical --relax --mt 2 -L xil_defaultlib -L uvm -L unisims_ver -L unimacro_ver -L secureip --snapshot testBenchFinalMUX_behav xil_defaultlib.testBenchFinalMUX xil_defaultlib.glbl -log elaborate.log 
 Using 2 slave threads.
 Starting static elaboration
 Pass Through NonSizing Optimizer
+WARNING: [VRFC 10-3823] variable 'y' might have multiple concurrent drivers [C:/Users/berkay/vprojects/TwoNFourMultiplexer/TwoNFourMultiplexer.srcs/sources_1/new/FinalMUX.sv:34]
 Completed static elaboration
 Starting simulation data flow analysis
 Completed simulation data flow analysis
 Time Resolution for simulation is 1ps
-Compiling module xil_defaultlib.MUX4
-Compiling module xil_defaultlib.testBenchMux4
+Compiling module xil_defaultlib.MUX2
+Compiling module xil_defaultlib.FinalMUX
+Compiling module xil_defaultlib.testBenchFinalMUX
 Compiling module xil_defaultlib.glbl
-Built simulation snapshot testBenchMux4_behav
+Built simulation snapshot testBenchFinalMUX_behav
