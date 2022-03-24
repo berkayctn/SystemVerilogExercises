@@ -1,2 +1,2 @@
 # SystemVerilogExercises
-Code exercises that I wrote with SystemVerilog on Vivado about topics that I learned.
+Code exercises that I wrote with SystemVerilog on Xilinx Vivado about topics that I learned.
