@@ -1,0 +1,11 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/berkay/vprojects/ALU/ALU.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/berkay/vprojects/ALU/ALU.srcs/sim_1/new/ALUtb.sv,1648548085,systemVerilog,,,,ALUtb,,uvm,,,,,,
+C:/Users/berkay/vprojects/ALU/ALU.srcs/sources_1/new/ALU.sv,1648549808,systemVerilog,,C:/Users/berkay/vprojects/ALU/ALU.srcs/sources_1/new/MUX2.sv,,ALU,,uvm,,,,,,
+C:/Users/berkay/vprojects/ALU/ALU.srcs/sources_1/new/MUX2.sv,1648550572,systemVerilog,,C:/Users/berkay/vprojects/ALU/ALU.srcs/sources_1/new/MUX4.sv,,MUX2,,uvm,,,,,,
+C:/Users/berkay/vprojects/ALU/ALU.srcs/sources_1/new/MUX4.sv,1648550230,systemVerilog,,C:/Users/berkay/vprojects/ALU/ALU.srcs/sources_1/new/NbitFulladder.sv,,MUX4,,uvm,,,,,,
+C:/Users/berkay/vprojects/ALU/ALU.srcs/sources_1/new/NbitFulladder.sv,1648549304,systemVerilog,,C:/Users/berkay/vprojects/ALU/ALU.srcs/sources_1/new/fulladder.sv,,NbitFulladder,,uvm,,,,,,
+C:/Users/berkay/vprojects/ALU/ALU.srcs/sources_1/new/fulladder.sv,1648546149,systemVerilog,,C:/Users/berkay/vprojects/ALU/ALU.srcs/sim_1/new/ALUtb.sv,,fulladder,,uvm,,,,,,
