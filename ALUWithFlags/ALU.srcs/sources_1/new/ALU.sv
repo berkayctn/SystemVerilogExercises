@@ -23,11 +23,9 @@
 module ALU(
     input logic [3:0] a,b,
     input logic [1:0] AluControl,
-    output logic cout,
     output [3:0] Result ,
     output logic v,c,n,z);
     
-    logic [3:0] n3,n4;
     logic [3:0] n3,n4;
     wire[3:0] n1,n2;
     
