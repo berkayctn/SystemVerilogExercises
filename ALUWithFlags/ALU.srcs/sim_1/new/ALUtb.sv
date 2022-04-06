@@ -23,16 +23,15 @@
 module ALUtb();
 
 logic [3:0] a,b,Result;
-logic v,c,n,z;
 logic [1:0] AluControl;
+logic cout;
+logic v,c,n,z;
 
-ALU dut(a,b,AluControl,Result,v,c,n,z);
+ALU dut(a,b,AluControl,cout,Result,v,c,n,z);
 
 initial begin
-a= 4'b1111; b = 4'b0101; AluControl= 2'b00; #10;
-AluControl= 2'b01; #10;
-AluControl= 2'b10; #10;
-AluControl= 2'b11; #10;
-
+a= 4'b0011; b = 4'b0010; AluControl= 2'b00; #10;
+a= 4'b0011; b = 4'b0011; AluControl= 2'b01; #10;
+a= 4'b0111; b = 4'b0001; AluControl= 2'b00; #10;
 end
 endmodule
