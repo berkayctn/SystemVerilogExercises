@@ -1,0 +1,11 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/berkay/vprojects/EightBitALU/ALU.sim/sim_1/behav/xsim/glbl.v,1649245685,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/berkay/vprojects/EightBitALU/ALU.srcs/sim_1/new/ALUtb.sv,1649247515,systemVerilog,,,,ALUtb,,uvm,,,,,,
+C:/Users/berkay/vprojects/EightBitALU/ALU.srcs/sources_1/new/ALU.sv,1649247499,systemVerilog,,C:/Users/berkay/vprojects/EightBitALU/ALU.srcs/sources_1/new/MUX2.sv,,ALU,,uvm,,,,,,
+C:/Users/berkay/vprojects/EightBitALU/ALU.srcs/sources_1/new/MUX2.sv,1649245685,systemVerilog,,C:/Users/berkay/vprojects/EightBitALU/ALU.srcs/sources_1/new/MUX4.sv,,MUX2,,uvm,,,,,,
+C:/Users/berkay/vprojects/EightBitALU/ALU.srcs/sources_1/new/MUX4.sv,1649245685,systemVerilog,,C:/Users/berkay/vprojects/EightBitALU/ALU.srcs/sources_1/new/NbitFulladder.sv,,MUX4,,uvm,,,,,,
+C:/Users/berkay/vprojects/EightBitALU/ALU.srcs/sources_1/new/NbitFulladder.sv,1649245685,systemVerilog,,C:/Users/berkay/vprojects/EightBitALU/ALU.srcs/sources_1/new/fulladder.sv,,NbitFulladder,,uvm,,,,,,
+C:/Users/berkay/vprojects/EightBitALU/ALU.srcs/sources_1/new/fulladder.sv,1649245685,systemVerilog,,C:/Users/berkay/vprojects/EightBitALU/ALU.srcs/sim_1/new/ALUtb.sv,,fulladder,,uvm,,,,,,
