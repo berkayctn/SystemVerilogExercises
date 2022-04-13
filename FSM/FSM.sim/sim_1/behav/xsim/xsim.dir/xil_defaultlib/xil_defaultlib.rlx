@@ -1,0 +1,8 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/berkay/vprojects/FSM/FSM.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/berkay/vprojects/FSM/FSM.srcs/sim_1/new/testBench4FSM.sv,1649864647,systemVerilog,,,,testBench4FSM,,uvm,,,,,,
+C:/Users/berkay/vprojects/FSM/FSM.srcs/sources_1/new/FSM.sv,1649869625,systemVerilog,,C:/Users/berkay/vprojects/FSM/FSM.srcs/sources_1/new/flop.sv,,FSM,,uvm,,,,,,
+C:/Users/berkay/vprojects/FSM/FSM.srcs/sources_1/new/flop.sv,1649864050,systemVerilog,,C:/Users/berkay/vprojects/FSM/FSM.srcs/sim_1/new/testBench4FSM.sv,,flop,,uvm,,,,,,
