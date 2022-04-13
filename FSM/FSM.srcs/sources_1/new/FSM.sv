@@ -37,7 +37,7 @@ always @ (*)
             S1: if (number == 2'b00)
                        nextState = S1;
                  else  nextState = S0;
-              default: nextState = S0; //ilk durumu bilmediðimiz için default olarak en baþta bir þey atamamýz gerekir
+              default: nextState = S0; 
               endcase
               
 assign q = state;      
