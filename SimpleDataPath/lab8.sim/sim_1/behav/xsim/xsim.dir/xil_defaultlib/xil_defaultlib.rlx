@@ -1,0 +1,14 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/berkay/vprojects/lab8/lab8.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/berkay/vprojects/lab8/lab8.srcs/sim_1/new/tb.sv,1654683054,systemVerilog,,,,tb,,uvm,,,,,,
+C:/Users/berkay/vprojects/lab8/lab8.srcs/sources_1/new/ALU.sv,1654776232,systemVerilog,,C:/Users/berkay/vprojects/lab8/lab8.srcs/sources_1/new/NbitFulladder.sv,,ALU,,uvm,,,,,,
+C:/Users/berkay/vprojects/lab8/lab8.srcs/sources_1/new/NbitFulladder.sv,1654674558,systemVerilog,,C:/Users/berkay/vprojects/lab8/lab8.srcs/sources_1/new/fulladder.sv,,NbitFulladder,,uvm,,,,,,
+C:/Users/berkay/vprojects/lab8/lab8.srcs/sources_1/new/fulladder.sv,1654675221,systemVerilog,,C:/Users/berkay/vprojects/lab8/lab8.srcs/sources_1/new/instruction.sv,,fulladder,,uvm,,,,,,
+C:/Users/berkay/vprojects/lab8/lab8.srcs/sources_1/new/instruction.sv,1654690477,systemVerilog,,C:/Users/berkay/vprojects/lab8/lab8.srcs/sources_1/new/instruction_memory.sv,,instruction,,uvm,,,,,,
+C:/Users/berkay/vprojects/lab8/lab8.srcs/sources_1/new/instruction_memory.sv,1654777124,systemVerilog,,C:/Users/berkay/vprojects/lab8/lab8.srcs/sources_1/new/mux2.sv,,instruction_memory,,uvm,,,,,,
+C:/Users/berkay/vprojects/lab8/lab8.srcs/sources_1/new/mux2.sv,1654673574,systemVerilog,,C:/Users/berkay/vprojects/lab8/lab8.srcs/sources_1/new/mux4.sv,,mux2,,uvm,,,,,,
+C:/Users/berkay/vprojects/lab8/lab8.srcs/sources_1/new/mux4.sv,1654674566,systemVerilog,,C:/Users/berkay/vprojects/lab8/lab8.srcs/sources_1/new/registerFile.sv,,mux4,,uvm,,,,,,
+C:/Users/berkay/vprojects/lab8/lab8.srcs/sources_1/new/registerFile.sv,1654690480,systemVerilog,,C:/Users/berkay/vprojects/lab8/lab8.srcs/sim_1/new/tb.sv,,registerFile,,uvm,,,,,,
